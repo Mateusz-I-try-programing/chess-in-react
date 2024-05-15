@@ -1,3 +1,20 @@
+.display{
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  background-color: #282c34;
+}
+.background{
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  background-color: gray;
+}
+body{
+  margin: 0px;
+}
+/* 
 .App {
   text-align: center;
 }
@@ -35,4 +52,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

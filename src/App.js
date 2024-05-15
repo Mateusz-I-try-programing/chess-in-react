@@ -1,11 +1,14 @@
-
 import './App.css';
 import BackPlate from './components/BackPlate.js'
 
 function App() {
   return (
-    <><p>kurwaa</p>
+    <>
+    <div className="background">
+      <div className="display">
       <BackPlate />
+      </div>
+      </div>
     </>
   );
 }
